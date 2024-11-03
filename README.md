@@ -2,7 +2,7 @@
 
 A command-line implementation of the classic Tic-Tac-Toe game written in C++. 
 
-![Screenshot](jaja)
+![Screenshot](IMG_20241103_123233.jpg)
 
 ## Features
 
